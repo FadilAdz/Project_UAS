@@ -15,7 +15,7 @@
 |Link Youtube| https://youtu.be/sBzT8UeMFJw?feature=shared |
 | --- | --- |
 
-# $${\color{lightblue}CODE.PROGRAM.PYTHON}$$
+# CODE PROGRAM PYTHON
 ![gambar](UAS/UAS.png)
 
 # HASIL DARI CODE PROGRAM 
